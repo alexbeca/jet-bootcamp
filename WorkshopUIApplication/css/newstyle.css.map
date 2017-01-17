@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA;;;;EAIE;AACF;;;EAGE;AAIF,OAAQ;EACJ,WAAW,EAHN,IAAI",
+"sources": ["../scss/newstyle.scss"],
+"names": [],
+"file": "newstyle.css"
+}
